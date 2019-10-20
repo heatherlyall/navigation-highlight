@@ -33,11 +33,11 @@ h1 {
   margin-top: 0;
 }
 
-.berries {
+.nav {
   list-style-type: none;
 }
 
-.berries li {
+.nav li {
 
   display: inline-block;
   margin: .3em;
