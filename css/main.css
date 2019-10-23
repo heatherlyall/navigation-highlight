@@ -55,6 +55,7 @@ a {
   text-decoration: none;
   font-family: Georgia;
   text-align: center;
+  padding: .2em .5em .3em;
 }
 
 a:hover {
