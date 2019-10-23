@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #fff;
-  font-family: Sigmar One, cursive;
+  font-family: "Sigmar One", cursive;
   line-height: 1.5;
 }
 
@@ -20,7 +20,7 @@ header {
 }
 
 h1 {
-  font-family: Sigmar One, cursive;
+  font-family: "Sigmar One", cursive;
   text-align: center;
   color: #b20953;
   display: block;
@@ -41,8 +41,6 @@ h1 {
 .nav li {
 
   display: inline-block;
-  margin: .3em;
-  padding: .2em .5em .3em;
   border-radius: 4px;
   background-color: #b2a212;
   color: #fff;
@@ -64,7 +62,7 @@ a:hover {
 }
 
 h2 {
-  font-family: Sigmar One, cursive;
+  font-family: "Sigmar One", cursive;
   text-align: left;
   color: #b20953;
   display: block;
